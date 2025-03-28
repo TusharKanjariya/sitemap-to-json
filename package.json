@@ -1,20 +1,25 @@
 {
   "name": "sitemap-to-json",
   "version": "1.0.0",
-  "description": "Fetch and parse XML sitemaps to clean JSON using only native Node.js modules.",
+  "description": "Fetch and parse XML sitemaps to clean JSON using native Node.js modules.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"No tests yet\" && exit 0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TusharKanjariya/sitemap-to-json.git"
   },
   "keywords": [
     "sitemap",
-    "xml",
     "json",
+    "xml",
     "parser",
     "native",
     "nodejs",
     "seo"
   ],
   "author": "Tushar Kanjariya",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TusharKanjariya/sitemap-to-json/issues"
+  },
+  "homepage": "https://github.com/TusharKanjariya/sitemap-to-json#readme"
 }
