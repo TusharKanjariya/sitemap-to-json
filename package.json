@@ -1,6 +1,6 @@
 {
   "name": "sitemap-to-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch and parse XML sitemaps to clean JSON using native Node.js modules.",
   "main": "index.js",
   "repository": {
