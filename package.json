@@ -1,0 +1,20 @@
+{
+  "name": "sitemap-to-json",
+  "version": "1.0.0",
+  "description": "Fetch and parse XML sitemaps to clean JSON using only native Node.js modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "sitemap",
+    "xml",
+    "json",
+    "parser",
+    "native",
+    "nodejs",
+    "seo"
+  ],
+  "author": "Tushar Kanjariya",
+  "license": "MIT"
+}
