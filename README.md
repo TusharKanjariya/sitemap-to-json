@@ -58,6 +58,11 @@ Feel free to **fork** the repository, create a **new branch**, and submit a **pu
 
 ### ⭐ **Support the Project**
 If you found this tool useful, consider **starring 🌟 the repository** to support further development.  
+
+---
+🔗 **Follow me on GitHub**: [GitHub Profile](https://github.com/TusharKanjariya)  
+📧 **Contact:** [tusharkanjariya2014@gmail.com](mailto:tusharkanjariya2014@gmail.com)
+
 ---
 ## 📄 License
 
