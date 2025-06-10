@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/TusharKanjariya/sitemap-to-json/issues"
   },
+  "bin": {
+    "sitemap-to-json": "./cli.js"
+  },
   "homepage": "https://github.com/TusharKanjariya/sitemap-to-json#readme"
 }
