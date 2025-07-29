@@ -2,6 +2,9 @@
 
 A lightweight Node.js package that fetches and parses XML sitemaps into JSON format using only native Node.js modules—no external dependencies required!
 
+📝 **Tutorial**:  
+[Tired of XML? sitemap-to-json is the NPM package you didn’t know you needed](https://medium.com/javascript-in-plain-english/tired-of-xml-sitemap-to-json-is-the-npm-package-you-didnt-know-you-needed-9af97122bd9f?sk=1b7a562c4f0b4d75ad297fbd30fa8faa)
+
 ---
 
 ## 🚀 Installation
